@@ -5,5 +5,5 @@
 
 
 ```
-bash zegerman.sh -run 5
+bash zegermans.sh -run 5
 ```
