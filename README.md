@@ -22,7 +22,7 @@ If you want some leet speak variations just use *"--leet|-l]"*.
 
 The base words get a suffix number and a special character at the end. The typical German company compliance password is usually structured like this *Aaaaaa2024!*. So, a base word, capitalized first character, lower rest character followed by a number/year and then a special character. Keep in mind password spraying does not try to find the most secure password, but rather the weakest ones used by most people, while still being compliant and not actively on a deny list. 
 
-Speaking of deny list or blocked passwords, this is the reason why the words.txt do not contain for example *Password1!*, or *QWERTY1!* and the likes, as these are usually not allowed any more due to enterprise constraints. Entra-ID has a weird metric on this but usually does not allow these and does sometimes not allow the name of the company, or the name of the registered domain. 
+Speaking of deny list or blocked passwords, this is the reason why the *words.txt* dos not contain for example *Password1!*, or *QWERTY1!* and the likes, as these are usually not allowed any more due to enterprise constraints. Entra-ID has a weird metric on this but usually does not allow these and does sometimes not allow the name of the company, or the name of the registered domain. 
 
 So, company names can be allowed, or they might not be. Usually, I would go with what is here *Sommer*, *Winter* etc. and then go for the places and city names the company operates from, change them per target. 
 
