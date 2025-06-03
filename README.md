@@ -4,7 +4,7 @@ A quick and very dirty script to generate good password candidates for password 
 
 ## What does it do?
 
-It uses base words and generates them to German compliant passwords. These generations are customizable and based on some real statistics (around 10k purely German passwords) combined with long hacking experience, from me and various hacking colleagues and friends. This is not the end result of actual high level multiyear university peer-reviewed science - I would never claim that, but it is also not some random consultant influencer crap. Let’s just say that this has so far, a good and long proven record of working.  
+It uses base words and generates them to German compliant passwords. These generations are customizable and based on some real statistics (around 10k purely German passwords) combined with long hacking experience, from me and various hacking colleagues and friends. This is not the end result of actual high level multiyear university peer-reviewed science - I would never claim that, but it is also not some random consultant influencer crap. Let’s just say that there has been sucess with these kinds of compliance passwords.  
 
 ## How does it work?
 
