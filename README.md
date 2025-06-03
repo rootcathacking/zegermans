@@ -4,7 +4,7 @@ A quick and very dirty script to generate good passwords for password spraying, 
 
 ## What does it do?
 
-It uses base words and generates them to compliant passwords. These generations are customisable and based on some real statistics combined with long hacking expierence, from me and various collegues.
+It uses base words and generates them to german compliant passwords. These generations are customisable and based on some real statistics combined with long hacking expierence, from me and various hacking collegues.
 
 ## How does it work?
 
@@ -21,7 +21,9 @@ If you want some leet speak variations just use *"--leet|-l]"*.
 ### Thinking edition
 
 
+suffix
+line 24
+, weight line 28
+, length line 42.
 
 
-
-```
