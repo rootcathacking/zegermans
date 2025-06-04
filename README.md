@@ -1,6 +1,6 @@
  # Hacking Zegermans
 
-A quick and very dirty script to generate good password candidates for password spraying, targeting only german speaking organizations. 
+A quick and very dirty script to generate good password candidates for password spraying, targeting german speaking organizations. 
 
 ## What does it do?
 
